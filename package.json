@@ -11,7 +11,12 @@
     "url": "git+https://github.com/saviomartin/uselocalstorage-react-hook.git"
   },
   "keywords": [
-    "uselocalstorage-react"
+    "uselocalstorage-react",
+    "uselocalstorage-react-hook",
+    "uselocalstorage-hook",
+    "localstorage-react",
+    "localstorage-react-hook",
+    "localstorage"
   ],
   "author": "Savio Martin",
   "license": "MIT",
