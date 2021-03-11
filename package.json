@@ -1,0 +1,22 @@
+{
+  "name": "uselocalstorage-react-hook",
+  "version": "1.0.0",
+  "description": "Use local storage in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saviomartin/uselocalstorage-react-hook.git"
+  },
+  "keywords": [
+    "uselocalstorage-react"
+  ],
+  "author": "Savio Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saviomartin/uselocalstorage-react-hook/issues"
+  },
+  "homepage": "https://github.com/saviomartin/uselocalstorage-react-hook#readme"
+}
