@@ -1,3 +1,3 @@
-# Use Local Storage
+# uselocalstorage-react-hook
 
-lorem ipsum dolor sit amet, consectet
+This is an amazing package that will help you add local storage variables easily in your react app.

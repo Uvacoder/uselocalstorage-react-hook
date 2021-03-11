@@ -1,8 +1,9 @@
 import { useEffect, useState } from "react";
 
-export default function useLocalStorage(key, initialValue) {
-  const prefixedKey = key;
+const PREFIX = "local-";
 
+const useLocalStorage = (key, initialValue) => {
+  const prefixedKey = PREFIX + key;
   const [value, setValue] = useState(() => {
     const jsonValue = localStorage.getItem(prefixedKey);
     if (jsonValue != null) return JSON.parse(jsonValue);
@@ -19,4 +20,6 @@ export default function useLocalStorage(key, initialValue) {
   }, [prefixedKey, value]);
 
   return [value, setValue];
-}
+};
+
+export default useLocalStorage;
