@@ -1,4 +1,8 @@
-# uselocalstorage-react-hook
+[![NPM](https://img.shields.io/npm/v/uselocalstorage-react-hook.svg?style=flat-square)](https://www.npmjs.com/package/react-select)
+![](https://img.shields.io/github/license/saviomartin/uselocalstorage-react-hook?style=flat-square)
+[![](https://img.shields.io/npm/dw/uselocalstorage-react-hook?style=flat-square)](https://www.npmjs.com/package/react-select)
+
+# Uselocalstorage-React-Hook
 
 ![](/assets/working.gif)
 
@@ -56,6 +60,12 @@ export default App;
 
 [![](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/uselocalstorage-react-hook-85h9r)
 
+## 🙌 Thanks
+
+Thanks to everyone who contributed to the development of this project.
+
+If you enjoyed, go follow me on [Twitter](https://twitter.com/saviomartin7)
+
 ## 🛡️ License
 
-[MIT](LICENSE)
+[MIT](LICENSE) Licensed. Copyright (c) [Savio Martin](http://github.com/saviomartin/).
