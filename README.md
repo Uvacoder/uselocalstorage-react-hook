@@ -53,7 +53,8 @@ export default App;
 ## 🦄 Live Demo
 
 - [https://codesandbox.io/s/uselocalstorage-react-hook-85h9r](https://codesandbox.io/s/uselocalstorage-react-hook-85h9r)
-  [![](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/uselocalstorage-react-hook-85h9r)
+
+[![](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/uselocalstorage-react-hook-85h9r)
 
 ## 🛡️ License
 
