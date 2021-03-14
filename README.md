@@ -56,13 +56,17 @@ export default App;
 
 ## 🦄 Live Demo
 
-- [https://codesandbox.io/s/uselocalstorage-react-hook-85h9r](https://codesandbox.io/s/uselocalstorage-react-hook-85h9r) (Easy 📌)
+- [https://codesandbox.io/s/uselocalstorage-react-hook-85h9r](https://codesandbox.io/s/uselocalstorage-react-hook-85h9r) (Begginner 📌)
 
 [![](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/uselocalstorage-react-hook-85h9r)
 
 - [https://codesandbox.io/s/uselocalstorage-react-hook-yy2nf](https://codesandbox.io/s/uselocalstorage-react-hook-yy2nf) (Intermediate 📌)
 
 [![](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/uselocalstorage-react-hook-yy2nf)
+
+- [https://codesandbox.io/s/uselocalstorage-react-hook-h12tq](https://codesandbox.io/s/uselocalstorage-react-hook-h12tq) (Advanced 📌)
+
+[![](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/uselocalstorage-react-hook-h12tq)
 
 ## 🙌 Thanks
 
